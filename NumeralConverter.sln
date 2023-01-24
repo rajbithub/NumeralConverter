@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumeralConverter", "NumeralConverter\NumeralConverter.csproj", "{F52F4796-74B6-4D10-9E31-24AFF2C3FE6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumeralConverterTests", "NumeralConverterTests\NumeralConverterTests.csproj", "{09882632-FBDD-4AC1-8D47-EA16C3A67E12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F52F4796-74B6-4D10-9E31-24AFF2C3FE6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52F4796-74B6-4D10-9E31-24AFF2C3FE6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52F4796-74B6-4D10-9E31-24AFF2C3FE6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F52F4796-74B6-4D10-9E31-24AFF2C3FE6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09882632-FBDD-4AC1-8D47-EA16C3A67E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09882632-FBDD-4AC1-8D47-EA16C3A67E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09882632-FBDD-4AC1-8D47-EA16C3A67E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09882632-FBDD-4AC1-8D47-EA16C3A67E12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41482F13-CA84-4F28-AEB5-ABCF1330638F}
+	EndGlobalSection
+EndGlobal
